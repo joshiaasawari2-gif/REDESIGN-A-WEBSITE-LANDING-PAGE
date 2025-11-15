@@ -50,3 +50,14 @@ Although the core task is UI redesign, the layout was structured in a way that c
  Tools Used
 Figma / Canva /
 This task helped me improve my understanding of UI/UX principles and the importance of visual hierarchy, spacing, colors, and typography. Through this redesign, I transformed a basic or outdated landing page into a cleaner, modern, and user-focused design. This experience enhanced my design thinking, attention to detail, and ability to create professional interfaces suitable for real-world applications.
+
+
+*OUTPUT*
+
+
+<img width="559" height="423" alt="Image" src="https://github.com/user-attachments/assets/398535cd-a676-4413-b943-37eea0625a5d" />
+
+<img width="1142" height="941" alt="Image" src="https://github.com/user-attachments/assets/27aae459-a98f-40ec-b947-02de806e32b8" />
+
+
+
